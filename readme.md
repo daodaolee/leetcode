@@ -1,4 +1,6 @@
 本仓库记录leetcode的刷题记录，思路放在issue。
+## Debug
+项目fork下来之后，直接vscode打断点调试就可以了。
 ## 目录
 [数组拆分-506](https://github.com/daodaolee/leetcode/issues/1)
 
